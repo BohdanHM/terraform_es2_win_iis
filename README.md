@@ -57,18 +57,18 @@ To get a local copy up and running follow these simple steps.
 Terraform at least 0.12.29 version, an AWS account
 * how to install terraform
   ```sh
-  <a href="https://www.terraform.io/docs/cloud/run/install-software.html">https://www.terraform.io/docs/cloud/run/install-software.html</a>
+  https://www.terraform.io/docs/cloud/run/install-software.html
   ```
 * how to create AWS account
   ```sh
-  <a href="https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/">https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/</a>
+  https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
   ```
 
 ### Deployment to AWS
 
 1. Clone the repo to your computer
    ```sh
-   git clone <a href="https://github.com/BohdanHM/terraform_es2_win_iis.git">https://github.com/BohdanHM/terraform_es2_win_iis.git</a>
+   git clone https://github.com/BohdanHM/terraform_es2_win_iis.git
    ```
 2. Setup the variables in
    ```sh
