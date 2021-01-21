@@ -1,0 +1,9 @@
+*.tfstate
+terraform_aws/terraform.tfstate.backup
+terraform_aws/win2019.pem
+terraform_aws/win2019.pub
+terraform_aws/.terraform
+terraform_aws/.terraform.lock.hcl
+terraform_aws/crash.log
+terraform_aws/terraform.tfstate
+terraform_aws/terraform.tfvars
