@@ -33,21 +33,6 @@ variable "instance_password" {
 variable "my_ip_address" {
   default = "3.8.185.103"
 }
-
-# variable "INSTANCE_USERNAME" {
-#   default = "Admin2"
-# }
-#
-# variable "INSTANCE_PASSWORD" {
-#   default = "&F2i%Zl7E(SnB7XH(%wKn7t)$k(Whos7"
-# }
-
-# variable "admin_pass" {
-#   default = "&F2i%Zl7E(SnB7XH(%wKn7t)$k(Whos7"
-# }
-
 variable "PATH_TO_PUBLIC_KEY" {
-  #default = "../../secrets/win19.pem"
   default = "./win2019.pub"
-  #default = "my-key-pair.pem"
 }
