@@ -27,14 +27,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project uses Terraform for creating infrastructure such as VPC, Subnet, LoadBalancer and EC2 instances (win 2019 server with IIS) in AWS. Traffic is routed between two ES2 instances.
+This project uses Terraform for creating infrastructure such as VPC, Subnet, NetworkLoadBalancer and EC2 instances (win 2019 server with IIS) in AWS. Traffic is routed between two ES2 instances.
 Environment:
   * []()Terraform v0.14.4
   * []()AWS
   * []()OS: Windows Server 2019
   * []()OS: IIS 10
   <br />
-PowerShell script for deployment your a new site IIS version servers is in Folder **deploy**.
+PowerShell script for deployment your a new site IIS version servers is in Folder **deploy**
 
 
 ### Tech stack
