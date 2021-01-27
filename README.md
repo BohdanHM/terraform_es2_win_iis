@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Trainee task.</h1>
+  <h1 align="center">Terraform -> EC2 -> NetworkLoadBalancer -> Win2019 -> IIS</h1>
   <p align="center">
   <h3 align="center"> Two EC2 win2019 servers with IIS instances created by Terraform. PowerShell script for deployment code. </h3>
   </p>
@@ -18,7 +18,7 @@
       <ul>
         <li><a href="#requirement">Requirement</a></li>
         <li><a href="#deployment-to-aws>Deployment to AWS</a></li>
-        <li><a href="#Deploying-your-new-site">Deploying your new site code to IIS in AWS EC2 win2019 server</a></li>
+        <li><a href="#deploying-your-new-site">Deploying your new site code to IIS in AWS EC2 win2019 server</a></li>
       </ul>
     </li>
   </ol>
