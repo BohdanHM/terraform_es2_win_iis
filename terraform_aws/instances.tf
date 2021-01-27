@@ -12,7 +12,7 @@ resource "aws_instance" "webservers" {
   key_name        = aws_key_pair.mykey.key_name
 
   tags = {
-    Name = "Win-Server-${count.index}"
+    Name = "WinServer-${count.index}"
   }
 
   # The connection block tells our provisioner how to
